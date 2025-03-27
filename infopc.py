@@ -38,7 +38,7 @@ cores=""
 
 
 
-print("Escribir en la base de datossssss\n\n")
+print("Escribir en la base de datos\n\n")
 
 print("")
 print(f"Nombre del host: {hostname}")
